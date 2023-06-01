@@ -2,6 +2,7 @@
 
 This project walks you on how to create a twitter sentiment analysis model using python. Twitter sentiment analysis is performed to identify the sentiments of the people towards various topics. For this project, we will be analysing the sentiment of people towards Pfizer vaccines.    We will be using the data available on Kaggle to create this machine learning model. The collected tweets from Twitter will be analysed using machine learning to identify the different sentiments present in the tweets.
 
+
 <img width="485" alt="Screenshot 2023-05-20 at 11 27 04 PM" src="https://github.com/yashshukla20/twitter-mawkishness-analysis/assets/127749722/50310bd7-69af-4bcd-a94b-da3c8ee44db3">
 
 <img width="485" alt="Screenshot 2023-05-20 at 11 27 04 PM" src="https://github.com/yashshukla20/twitter-mawkishness-analysis/assets/12<img width="576" alt="Screenshot 2023-05-20 at 11 27 58 PM" src="https://github.com/yashshukla20/twitter-mawkishness-analysis/assets/127749722/6039e855-161f-49a6-8769-a699033b285e">
